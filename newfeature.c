@@ -7,4 +7,5 @@ void main(){
   printf("print working dir : %s\n, pwd);
   fputs("%s\n", f);
   fclose(f);
+
 }
