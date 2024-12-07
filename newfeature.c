@@ -6,5 +6,8 @@ void main(){
   getcwd(pwd, sizeof(pwd));
   printf("print working dir : %s\n, pwd);
   fputs("%s\n", f);
+
+  dwdwdwdwdd
   fclose(f);
+	ddddddwdwdwdw
 }
