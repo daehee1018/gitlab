@@ -1,2 +1,1 @@
 # practicerepo
-## study git
